@@ -2,7 +2,7 @@
 语音输入效果，类似百度语音机器人
 
 # 图片效果
-![效果]（https://github.com/EarthMass/HXAudioInputView/blob/master/audio.gif）
+![效果](https://github.com/EarthMass/HXAudioInputView/blob/master/audio.gif)
 
 # 使用
 ## 暂不支持pod ,直接拷贝代码使用
