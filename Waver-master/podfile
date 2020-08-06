@@ -1,0 +1,8 @@
+platform :ios,'9.0'
+
+target 'Waver' do
+
+pod 'Masonry'
+pod 'FrameAccessor' ##布局快速设置frame
+
+end
